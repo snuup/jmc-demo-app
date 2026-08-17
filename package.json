@@ -1,0 +1,13 @@
+{
+    "name": "jmc demo application",
+    "scripts": {
+        "dev": "vite"
+    },
+    "dependencies": {
+        "@snupo/jmc": "^1.0.22"
+    },
+    "devDependencies": {
+        "typescript": "^6.0.3",
+        "vite": "^8.2.1"
+    }
+}

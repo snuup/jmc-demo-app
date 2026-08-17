@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "target": "esnext",
+        "moduleResolution": "bundler", // without this, react types cannot resolve import * as CSS from "csstype";
+        "jsx": "react",
+        "jsxFactory": "jsx",
+        "jsxFragmentFactory": "jsxf",
+        "rootDir": "src",
+        "outDir": "dist"       
+    }
+}
